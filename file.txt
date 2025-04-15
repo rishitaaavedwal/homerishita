@@ -1,5 +1,4 @@
-rishita
-vedwal
-amity
-university
-bangalore
+rishita is my good name
+vedwal is my family name
+amity university is in bangalore
+currently pursuing btech cse
