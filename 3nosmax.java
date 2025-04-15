@@ -23,5 +23,6 @@ class 3nosmax
 		{
 			max=n3;
 		}
+		System.out.println(max+"is the greatest no");
 	}
 }
