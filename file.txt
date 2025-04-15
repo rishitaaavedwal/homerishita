@@ -1,4 +1,9 @@
-rishita is my good name
-vedwal is my family name
-amity university is in bangalore
-currently pursuing btech cse
+#include<stdio.h>
+int main()
+{
+	printf("rishita is my good name");
+	printf("vedwal is my family name");
+	printf("amity university is in bangalore");
+	printf("currently pursuing btech cse");
+	return 0;
+}
